@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41cb500cf0f58e74f9a52a8af931edde, type: 3}
+  m_Name: -tk2d
+  m_EditorClassIdentifier: 
+  version: 3
+  spriteAnimationIndex:
+  - assetGUID: dcc43ab4fc91b4b76a4fa2d527715f16
+    dataGUID: 
+    managed: 0
+    loadable: 0
+  - assetGUID: d6de71ba70f3e44f1a2f1648568524e3
+    dataGUID: 
+    managed: 0
+    loadable: 0
+  fontIndex: []
+  spriteCollectionIndex:
+  - name: Background
+    spriteCollectionGUID: 7c7885fe4087546e99cff7c3d43a6cab
+    spriteCollectionDataGUID: 31090ae759fec4a9a92d7540e08e205c
+    spriteNames:
+    - background
+    spriteTextureGUIDs:
+    - ea3c270a721db4d1bb8205832ba50fae
+    spriteTextureTimeStamps:
+    - 1377471767
+    managedSpriteCollection: 0
+    loadable: 0
+    assetName: 
+    version: 3
+  - name: hero
+    spriteCollectionGUID: 64f47fe413ff14f7ab342a7bdab64056
+    spriteCollectionDataGUID: c56ba94b0a14c4816b2fd3240bd2c36c
+    spriteNames:
+    - dead
+    - attack
+    - idle
+    - run_1
+    - run_2
+    - run_3
+    - run_4
+    spriteTextureGUIDs:
+    - 30c691f9155fa4bb19fa69f6faa6183b
+    - be2542b3e093a4b6e80b6956fadde318
+    - 2ebfa5baf460945a888b5f2288200706
+    - 723b0eb0c611a4e5fb8f7c6c8b932d20
+    - 2bdb6493a393b4269812b8a6d979ab38
+    - 711e9f3c8617c459b8eafda8c4c89590
+    - 7cd01999f856446afa7a87a61579a13c
+    spriteTextureTimeStamps:
+    - 1377391903
+    - 1377391903
+    - 1377391903
+    - 1377391903
+    - 1377391903
+    - 1377391903
+    - 1377391903
+    managedSpriteCollection: 0
+    loadable: 0
+    assetName: 
+    version: 3
+  - name: Heroes
+    spriteCollectionGUID: a649eab9ca60f40ffa10086be0876d3c
+    spriteCollectionDataGUID: 111494624483c4aa4b947390312764b0
+    spriteNames:
+    - hero_walk_02
+    - hero_walk_03
+    - hero_walk_04
+    - hero_walk_01
+    - hero_action
+    - hero_idle
+    - slime_04
+    - slime_02
+    - slime_05
+    - slime_01
+    - slime_03
+    spriteTextureGUIDs:
+    - 187b834f5930543d4b9a1122ad57aa8c
+    - 81220d3f4179147f3b34732cbb666aa3
+    - 8c648fefa193149be83bdc393f004f7c
+    - 9cb193de7d6ee48de8f6da4a90b13863
+    - c88e1ca7b2ad3431781ede9bc2efa901
+    - f18c07e694e1844c18e15fd06695f518
+    - 3c3cc1f2887ba49f980bdf85002d971b
+    - 678b62b263f8146e887fb39e1ecacd1a
+    - 8178268c1a372457f96e5fb85ad2845b
+    - bf33eb01b67af4b91b2b31e635f088d6
+    - e085bf6f9129f4f83b1ee50ce5a9cde2
+    spriteTextureTimeStamps:
+    - 1377470042
+    - 1377470042
+    - 1377470042
+    - 1377470042
+    - 1377470042
+    - 1377470042
+    - 1377470042
+    - 1377470042
+    - 1377470042
+    - 1377470042
+    - 1377470042
+    managedSpriteCollection: 0
+    loadable: 0
+    assetName: 
+    version: 3
